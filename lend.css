@@ -1,0 +1,20 @@
+.tile{
+  border-radius: 4px;
+  margin-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+  box-shadow: 12px 15px 20px 0px #343a40;
+  background: #fff;
+}
+
+.stats{
+  text-align: center;
+
+}
+
+.footer{
+  padding-top: 10px;
+  margin-left: 44px;
+
+}
